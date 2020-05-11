@@ -4,11 +4,26 @@ body {
     text-align: center;
 }
 
+/* HEADINGS */
+
 .header--main {
     font-size: 50px;
     font-weight: normal;
     color: white;
 }
+
+.header--secondary {
+    color: white;
+    font-weight: 300px;
+    font-size: 42px;
+}
+
+.header--sub-header {
+    color: gray;
+    font-size: 21px;
+}
+
+/* LINKS */
 
 .link--cta {
     color: aquamarine;
